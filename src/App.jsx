@@ -5,7 +5,7 @@ import Display from "./components/Display.jsx";
 
 const App = () => {
   return(
-    <div className="h-screen bg-black">
+    <div className="h-screen bg-black text-white">
       <div className="h-[90%] flex">
         <SideBar />
         <Display />

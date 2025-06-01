@@ -77,14 +77,14 @@ export const albumsData = [
     },
     {   
         id:1,
-        name: "Top 50 India",
+        name: "Top 50 Kenya",
         image: img9,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#22543d"
     },
     {   
         id:2,
-        name: "Trending India",
+        name: "Trending Kenya",
         image: img10,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#742a2a"
@@ -123,58 +123,58 @@ export const songsData = [
     },
     {
         id:1,
-        name: "Song Two",
+        name: "Blicky",
         image: img2,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Burukulyn Boyz",
         duration:"2:20"
     },
     {
         id:2,
-        name: "Song Three",
+        name: "Medulla",
         image: img3,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Maina",
         duration:"2:32"
     },
     {
         id:3,
-        name: "Song Four",
+        name: "Pretty",
         image: img4,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Vybz Kartel",
         duration:"2:50"
     },
     {
         id:4,
-        name: "Song Five",
+        name: "Decide",
         image: img5,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Njerae",
         duration:"3:10"
     },
     {
         id:5,
-        name: "Song Six",
+        name: "Glory",
         image: img14    ,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Ogryzek",
         duration:"2:45"
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "Yes Bana",
         image: img7,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Khaligraph Jones",
         duration:"2:18"
     },
     {
         id:7,
-        name: "Song Eight",
+        name: "Nairobi",
         image: img12,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Buruklyn Boys",
         duration:"2:35"
     }
 ]
