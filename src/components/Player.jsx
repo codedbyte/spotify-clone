@@ -2,7 +2,7 @@ import React from "react";
 import { assets, songsData } from "../assets/assets";
 const Player = () => {
     return(
-        <div className="bg-black h-[10%]flex justify-between items-center text-white px-4">
+        <div className="bg-black h-[10%] flex justify-between items-center text-white px-4">
             <div className="hidden lg:flex items-center gap-4">
                 <img className="w-12" src={songsData[0].image} alt="" />
                 <div>
@@ -25,6 +25,16 @@ const Player = () => {
                     </div>
                     <p>3:20</p>
                 </div>
+            </div>
+            <div className="hidden lg:flex items-center gap-2 opacity-75">
+                <img src={assets.plays_icon} alt="" className="w-4" />
+                <img src={assets.mic_icon} alt="" className="w-4" />
+                <img src={assets.queue_icon} alt="" className="w-4" />
+                <img src={assets.speaker_icon} alt="" className="w-4" />
+                <img src={assets.volume_icon} alt="" className="w-4" />
+                <div className="w-20 bg-slate-50 h-1 rounded"></div>
+                <img src={assets.mini_player_icon} alt="" className="w-4" />
+                <img src={assets.zoom_icon} alt="" className="w-4" />
             </div>
         </div>
     );
