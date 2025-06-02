@@ -80,14 +80,14 @@ export const albumsData = [
         name: "Top 50 Kenya",
         image: img9,
         desc:"Your weekly update of the most played tracks",
-        bgColor:"#22543d"
+        bgColor:"#333333de"
     },
     {   
         id:2,
         name: "Trending Kenya",
         image: img10,
         desc:"Your weekly update of the most played tracks",
-        bgColor:"#742a2a"
+        bgColor:"#ddd123"
     },
     {   
         id:3,
@@ -101,7 +101,7 @@ export const albumsData = [
         name: "Mega Hits,",
         image: img11,
         desc:"Your weekly update of the most played tracks",
-        bgColor:"#234e52"
+        bgColor:"#ddd123"
     },
     {   
         id:5,
